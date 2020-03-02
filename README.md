@@ -10,7 +10,7 @@ The proyect was built with react using gatsby framework
 <br/>
 <h2>Intall steps:</h2>
 <h4>1. git clone</h4>
-<br/>
 <h4>2. npm install<h4>
+
 
 Happy hacking!
