@@ -7,7 +7,8 @@ The aim of this proyect is to have a pdf417 barcode reader from the browser's ca
 The proyect was built with react using gatsby framework
 
 <h2>Intall steps:</h2>
-1- git clone
-2- npm install
+1. git clone
+<br/>
+2. npm install
 
 Happy hacking!
